@@ -1,0 +1,8 @@
+name: KitPvP
+main: dev.dementisimus.kitpvp.KitPvPPlugin
+author: dementisimus
+version: ${project.version}
+website: dementisimus.dev
+depend: [ CoreAPI ]
+softdepend: [ CoreAPI-Dependencies ]
+api-version: 1.17
